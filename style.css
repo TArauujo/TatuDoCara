@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia&family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+.nome1{
+    color:black;
+    text-align: center;
+    font-family: 'Kalnia';
+    font-size: 70px;
+}
+
+.nome2{
+    color:black;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Whisper';
+}
+
+.nome3{
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Dancing Script';
+}
+
+.nome4{
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Teko';
+}
+
+.nome5{
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Crimson Text';
+}
+
+.nome6{
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Caveat';
+}
